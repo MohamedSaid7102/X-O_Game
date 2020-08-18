@@ -1,0 +1,2 @@
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Tic Tac\Tic Tac Toe Game\Debug\X_O.exe
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Tic Tac\Tic Tac Toe Game\Debug\X_O.pdb

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tic Tac Toe Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  X_O.cpp
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Tic Tac\Tic Tac Toe Game\X_O.cpp(44): warning C4715: '_2': not all control paths return a value
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Tic Tac\Tic Tac Toe Game\X_O.cpp(29): warning C4715: '_1': not all control paths return a value
+  Tic Tac Toe Game.vcxproj -> C:\Users\moham\OneDrive\Desktop\C++ Projects\Tic Tac\Tic Tac Toe Game\Debug\X_O.exe
